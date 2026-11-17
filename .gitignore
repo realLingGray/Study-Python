@@ -1,0 +1,6 @@
+# Ignore all files in the directory
+# 忽略以点开头的文件和文件夹
+.*
+
+# 保留忽略规则，方便提交到 GitHub
+!.gitignore
